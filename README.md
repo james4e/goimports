@@ -20,7 +20,7 @@ Therefore, specifying those directories under `.goignore` will speed up GoImport
 
 ### The `.goignore` file.
 
-The `.goignore` file itself is a list of *directories* to be ignored by GoImports when GoImports searches `GOPATH` for all possible Go packages. It assumes a list of directories because ignoring individual files is not very useful.
+The `.goignore` file itself is a list of **directories** to be ignored by GoImports when GoImports searches `GOPATH` for all possible Go packages. It assumes a list of directories because ignoring individual files is not very useful.
 
 Example of `.goignore` file:
 
