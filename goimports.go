@@ -17,7 +17,7 @@ import (
 	"runtime"
 	"strings"
 
-	"code.corp.qavar.com/goimports/imports"
+	"github.com/eugeii/goimports/imports"
 )
 
 var (
